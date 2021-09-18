@@ -1,3 +1,5 @@
+https://sehaj97.github.io/js-localbinding/
+
 # Local Storage
 
 In this activity, you have been provided with a sign-up form that successfully submits an email and password. Your job is to write code that saves the email and password to localStorage and renders the last submission to the page.
@@ -19,6 +21,3 @@ In this activity, you have been provided with a sign-up form that successfully s
   * Save the email and password to localStorage.
 
   * Render the last registered email and password.
-
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
